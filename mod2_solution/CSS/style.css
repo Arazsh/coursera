@@ -59,9 +59,10 @@ section {
 } 
 
 p{
-	margin-top: 20px;
+	margin: 20px;
 	padding: 10px;
 	height: 160px;
+	
 }
 
 
